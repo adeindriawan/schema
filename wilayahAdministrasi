@@ -1,0 +1,5 @@
+@prefix ex: <https://github.com/adeindriawan/schema/>
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix dbo:  <http://dbpedia.org/resource/> .
+
+ex:wilayahAdministrasi a dbo:AdministrativeRegion, rdfs:Class.
